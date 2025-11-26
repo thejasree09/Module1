@@ -10,7 +10,8 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 ## 🧾 Program
  ```
 print('T') 
-print('a')```
+print('a')
+```
 ## Output
 <img width="332" height="202" alt="image" src="https://github.com/user-attachments/assets/463b7439-3842-497e-bcff-4e6cd13ea0ee" />
 
